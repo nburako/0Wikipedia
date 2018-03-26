@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "short_name": "0Wikipedia",
   "name": "0Wikipedia",
-  "description": "This extension makes you to access 0Wikipedia mirror directly without putting 0 to the head manually. Light, easy, comfortable",
+  "description": "This extension makes you to access 0Wikipedia mirror directly without putting 0 to the head manually.",
   "version": "1.0",
   "background": {
     "scripts": ["background.js"]
