@@ -9,4 +9,4 @@ reach Wikipedia's mirror manually. It will do that for you automatically.
 # How to install it?
 
 You can go to Chrome Web Store and search "0Wikipedia" or you can download this repository and upload it to your browser
-manually by clicking "Customize and control Google Chrome" > "More tools" > Extensions.
+manually by clicking "Customize and control Google Chrome" > "More tools" > "Extensions".
